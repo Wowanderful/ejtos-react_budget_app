@@ -63,7 +63,7 @@ const AllocationForm = (props) => {
                 <option value="Reduce" name="Reduce">Reduce</option>
                   </select>
 
-                    <span style={spanCurrency}>$
+                    <span style={spanCurrency}>£
                     </span> 
                     <input
                         required='required'
